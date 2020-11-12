@@ -1,0 +1,6 @@
+cryptography==2.9
+numpy==1.18.2
+opencv-contrib-python==4.4.0.46
+pip==20.0.2
+pywin32-ctypes==0.2.0
+setuptools==46.0.0
